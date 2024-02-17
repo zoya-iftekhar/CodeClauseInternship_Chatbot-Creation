@@ -1,8 +1,11 @@
 # CodeClauseInternship_Chatbot-Creation
+
+## Description
 Task: Develop a simple chatbot that can engage in basic conversations with users.
 
-### Tech Stack
-Pytorch/n
-NLTK/n
-Python/n
-NLP
+### Dependencies
+
+* Pytorch
+* NLP
+* NLTK
+* Python
